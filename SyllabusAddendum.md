@@ -11,9 +11,9 @@ Students will be assigned into one of three groups: A, B, and C, with the follow
 
 | Group/Weekday 	| Monday    	| Monday Time    	| Wednesday 	| Wednesday Time 	| Friday    	| Friday Time    	|
 |---------------	|-----------	|----------------	|-----------	|----------------	|-----------	|----------------	|
-| Group A       	| In-Person 	| Noon - 1:15PM  	| Remote    	| Noon - 12:35PM 	| Remote    	| Noon - 12:35PM 	|
-| Group B       	| Remote    	| Noon - 12:35PM 	| In-Person 	| Noon - 1:15PM  	| Remote    	| Noon - 12:35PM 	|
-| Group C       	| Remote    	| Noon - 12:35PM 	| Remote    	| Noon - 12:35PM 	| In-Person 	| Noon - 1:15PM  	|
+| Group A       	| In-Person 	| 9:00AM-10:15AM  	| Remote    	| 9:00AM- 9:35PM 	| Remote    	| 9:00AM- 9:35PM 	|
+| Group B       	| Remote    	| 9:00AM- 9:35PM 	| In-Person 	| 9:00AM-10:15AM  	| Remote    	| 9:00AM- 9:35PM 	|
+| Group C       	| Remote    	| 9:00AM- 9:35PM 	| Remote    	| 9:00AM- 9:35PM 	| In-Person 	| 9:00AM-10:15AM  	|
 
 Student group assignments will be posted on Canvas.
 
