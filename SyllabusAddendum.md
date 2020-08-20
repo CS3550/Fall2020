@@ -24,3 +24,13 @@ Student group assignments will be posted on Canvas.
 - When students attend the course remotely, they are expected to do so in a professional manner. This includes turning their cameras on, and, if they choose to use a virtual background, to use one that is neither animated nor distracting to others. If students are unable to attend remotely using a camera, they should contact their instructor.
 
 - The Bachelor of Science Information Systems (BIS) and Bachelor of Science Computer Science (BCS) Programs are accredited by the Accreditation Board for Engineering and Technology (ABET).  This organization requires that we keep samples of student work.  Unless you specify otherwise, I may retain your exams and assignments for accreditation purposes and return a copy to you.
+
+## Student Learning Objectives
+
+- Students will understand traditional and modern network technologies.
+- Students will be able to discuss the details of common network protocols.
+- Students will understand fundamentals of how the internet is implementated.
+- Students will implement at least one application that is deployed on the internet.
+- Students will be able to compare different protocols in terms of performance.
+- Students will be able to discuss basic security threats on the internet;
+- Students will understand the fundamentals of cryptography and its role in internet security.
