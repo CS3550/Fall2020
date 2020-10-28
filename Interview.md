@@ -31,3 +31,27 @@ What is an HTTP Response Header and hwat is its format?
 What are HTTP Response Headers?
 
 What the general meanings of 2xx, 3xx, 4xx, and 5xx response headers?
+
+What is a substitution cipher?
+
+What is a symmetric key?
+
+What are asymmetric keys?
+
+Which key is used for signing?
+
+Which key is used for encryption?
+
+What does is mean to digitally sign a message?
+
+Does a digital signature provide encryption>
+
+What is a certificate authsority?
+
+What is TLS?
+
+What is the difference between SSL and TLS?
+
+What do browsers use--SSL or TLS?
+
+What are the goals of the TLS handshake?
