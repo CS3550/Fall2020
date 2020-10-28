@@ -32,7 +32,21 @@ What are HTTP Response Headers?
 
 What the general meanings of 2xx, 3xx, 4xx, and 5xx response headers?
 
+What is a Caesar Cipher?
+
+Is the Caesar Cipher part of any internet protocols?
+
 What is a substitution cipher?
+
+What is frequenct analysis?
+
+What kinds of ciphers are vulnerable to frequency analysis?
+
+What kinds of ciphers are not vulnerable to frequency analysis?
+
+What are the properties of a one-time pad?
+
+What are the advantages of a one-time pad?
 
 What is a symmetric key?
 
@@ -55,3 +69,7 @@ What is the difference between SSL and TLS?
 What do browsers use--SSL or TLS?
 
 What are the goals of the TLS handshake?
+
+What is a microservice architecture?
+
+What is a monolithic architecture?
