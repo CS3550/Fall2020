@@ -58,9 +58,9 @@ Which key is used for encryption?
 
 What does is mean to digitally sign a message?
 
-Does a digital signature provide encryption>
+Does a digital signature provide encryption?
 
-What is a certificate authsority?
+What is a certificate autority?
 
 What is TLS?
 
