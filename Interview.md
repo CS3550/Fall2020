@@ -73,3 +73,19 @@ What are the goals of the TLS handshake?
 What is a microservice architecture?
 
 What is a monolithic architecture?
+
+How is cryptocurrency similar to credit card transactions?
+
+Who is the trusted third party in credit card transactions?
+
+How are cryptocurrency and creditcard transactions different?
+
+What is the trusted third party in crytocurrency transactions?
+
+How is anominity preserved in crytocurrency transactions?
+
+What is the block chain in cryptocurrency?
+
+How to block chain miners make money?
+
+How is the expected mining time on the block chain maintained?
