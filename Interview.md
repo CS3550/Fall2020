@@ -32,6 +32,26 @@ What are HTTP Response Headers?
 
 What the general meanings of 2xx, 3xx, 4xx, and 5xx response headers?
 
+When sychronizing, what is the difference between using deltas and the whole model?
+
+When synchronizing, what is the difference between pushing and pulling?
+
+What is the difference between pessimistic and optimistic updates?
+
+What is the difference between a public API, a single key based API, and an OAUTH API?
+
+What is the salt when storing passwords?
+
+What is the hash when storing passwords?
+
+What is the difference between a normal hash function and a cryptographic hash function?
+
+What is the OAuth handshake?
+
+What is a JSON Web Token?
+
+How does JWT differ from server-side session maintenance, particularly when users logout?
+
 What is a Caesar Cipher?
 
 Is the Caesar Cipher part of any internet protocols?
