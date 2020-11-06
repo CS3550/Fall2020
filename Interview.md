@@ -109,3 +109,13 @@ What is the block chain in cryptocurrency?
 How to block chain miners make money?
 
 How is the expected mining time on the block chain maintained?
+
+When can the block chain fork?
+
+What happens after the block chain forks?
+
+How is double spending prevented on the block chain?
+
+How does the reciever of funds know that the spender has the funds available?
+
+
