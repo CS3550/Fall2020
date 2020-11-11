@@ -118,4 +118,22 @@ How is double spending prevented on the block chain?
 
 How does the reciever of funds know that the spender has the funds available?
 
+What is a port in process to process communication?
+
+What is the largest port available?
+
+What are reserved ports?
+
+What is the purpose of ports 22, 80, and 443?
+
+What are ports in higher ranges that you should not use?
+
+Describe IPv4 addresses.
+
+Ignoring reserved IPv4 addresses, how many IPv4 addresses are there?
+
+What is 127.0.0.1?
+
+Why do most routers in homes use IPv4 addresses in the range 192.168.xx.xx?
+
 
