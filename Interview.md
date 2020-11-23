@@ -1,7 +1,5 @@
 # Interview Questions
 
-## Sockets, Processes, and Threads
-
 What is the difference between a thread and a process?
 
 How can threads communicate?
@@ -17,8 +15,6 @@ What is a server v. what is a client?
 What is a socket?
 
 What is a protocol?
-
-## HTTP
 
 What do most protocols have in common?
 
