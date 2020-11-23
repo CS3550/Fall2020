@@ -1,5 +1,7 @@
 # Interview Questions
 
+## Sockets, Processes, and Threads
+
 What is the difference between a thread and a process?
 
 How can threads communicate?
@@ -15,6 +17,8 @@ What is a server v. what is a client?
 What is a socket?
 
 What is a protocol?
+
+## HTTP
 
 What do most protocols have in common?
 
@@ -135,5 +139,29 @@ Ignoring reserved IPv4 addresses, how many IPv4 addresses are there?
 What is 127.0.0.1?
 
 Why do most routers in homes use IPv4 addresses in the range 192.168.xx.xx?
+
+What is DHCP?
+
+What does the client receive in the DHCP exchange?
+
+What is a default gateway?
+
+What is NAT?
+
+What in the advantage of using NAT?
+
+What is a forward proxy?
+
+What is DNS?
+
+What are DNS A Records?
+
+What are DNS AAA Records?
+
+What are DNS C Records?
+
+What are DNS MX Records?
+
+What is a reverse proxy?
 
 
