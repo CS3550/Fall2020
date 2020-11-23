@@ -26,13 +26,13 @@ What is the difference between HTTP 1.0, 1.1, and newer versions of HTTP?
 
 What is an HTTP Request Header and what is its format?
 
-What is an HTTP Response Header and hwat is its format?
+What is an HTTP Response Header and what is its format?
 
 What are HTTP Response Headers?
 
 What the general meanings of 2xx, 3xx, 4xx, and 5xx response headers?
 
-When sychronizing, what is the difference between using deltas and the whole model?
+When synchronizing, what is the difference between using deltas and the whole model?
 
 When synchronizing, what is the difference between pushing and pulling?
 
@@ -58,7 +58,7 @@ Is the Caesar Cipher part of any internet protocols?
 
 What is a substitution cipher?
 
-What is frequenct analysis?
+What is frequent analysis?
 
 What kinds of ciphers are vulnerable to frequency analysis?
 
@@ -80,7 +80,7 @@ What does is mean to digitally sign a message?
 
 Does a digital signature provide encryption?
 
-What is a certificate autority?
+What is a certificate authority?
 
 What is TLS?
 
@@ -98,11 +98,11 @@ How is cryptocurrency similar to credit card transactions?
 
 Who is the trusted third party in credit card transactions?
 
-How are cryptocurrency and creditcard transactions different?
+How are cryptocurrency and credit card transactions different?
 
 What is the trusted third party in crytocurrency transactions?
 
-How is anominity preserved in crytocurrency transactions?
+How is anonymity preserved in crytocurrency transactions?
 
 What is the block chain in cryptocurrency?
 
@@ -116,7 +116,7 @@ What happens after the block chain forks?
 
 How is double spending prevented on the block chain?
 
-How does the reciever of funds know that the spender has the funds available?
+How does the receiver of funds know that the spender has the funds available?
 
 What is a port in process to process communication?
 
