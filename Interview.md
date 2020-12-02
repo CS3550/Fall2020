@@ -28,7 +28,7 @@ What is an HTTP Request Header and what is its format?
 
 What is an HTTP Response Header and what is its format?
 
-What are HTTP Response Headers?
+~~What are HTTP Response Headers?~~
 
 What the general meanings of 2xx, 3xx, 4xx, and 5xx response headers?
 
