@@ -160,4 +160,15 @@ What are DNS MX Records?
 
 What is a reverse proxy?
 
+What properties does the UDP have?
+
+What properties does the TCP have?
+
+What are the header fields in a UDP packet?
+
+Which header fields in a UDP are optional?
+
+What is the role of the sequence number in a TCP packet?
+
+Whta is the role of the acknowledgement number in a TCP packet?
 
