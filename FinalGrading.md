@@ -15,7 +15,7 @@ Do the student review. I will open a quiz with one question: ```Did you do the s
 ## Interview Questions
 
 Copy the interview questions that are available on Canvas. Go through and type out your answers to each question. There are no restrictions to how you get the answers, with two caveats. 
-1.	As in everything, do not plagiarizing. If you have questions about this, feel free to ask me.
+1.	As in everything, do not plagiarize. If you have questions about this, feel free to ask me.
 
 2.	You will be graded partially on your self-assessment, not only your written answers. If you do this correctly, you will move what we learned in this class into your long-term memory by: 
    - Reading the questions
